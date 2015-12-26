@@ -247,9 +247,12 @@ blockquote footer{
 #other-ways-section > .container-fluid{
 	padding: 0;
 }
+<<<<<<< HEAD
 .main-other-ways{
 	background-color: #f5f5f5;
 }
+=======
+>>>>>>> 06be3b32c3283d657bca6f7d4e064fc744f776eb
 .hundred.toptwenty{
 	text-align: justify;
 	margin-top: 0;
@@ -272,6 +275,10 @@ blockquote footer{
 	background: transparent;
 	margin-top: -10px;
 	margin-right: 5px;
+<<<<<<< HEAD
+=======
+	border:0;
+>>>>>>> 06be3b32c3283d657bca6f7d4e064fc744f776eb
 }
 .bitcoin{
 	padding-top: 10px;
